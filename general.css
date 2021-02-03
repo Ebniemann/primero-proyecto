@@ -1,0 +1,6 @@
+body header, .empeza{
+    background-image: url(../primer/imagen/walle.jpg);
+    background-size: 1480px 550px;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+}
